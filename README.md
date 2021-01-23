@@ -8,8 +8,6 @@
 
 ## [**Demo**](https://maxland-a4698.web.app/)
 
-### in large screens
-
 ![in small screens](https://github.com/maxzod/queen_ui/blob/master/images/nav_bar_in_small.png?raw=true)
 ![in large screens](https://github.com/maxzod/queen_ui/blob/master/images/nav_bar_in_large.png?raw=true)
 
